@@ -1,0 +1,6 @@
+django==4.2
+djangorestframework
+## Database ##
+psycopg2
+## Environment variables
+python-decouple
